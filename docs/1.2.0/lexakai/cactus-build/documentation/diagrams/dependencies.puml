@@ -1,0 +1,9 @@
+@startuml
+
+    !include lexakai.theme
+    
+    title "cactus-build"
+    
+    artifact xml_apis
+    
+@enduml
