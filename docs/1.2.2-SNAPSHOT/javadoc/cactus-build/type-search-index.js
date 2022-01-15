@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"com.telenav.cactus.build.metadata","l":"BuildMetadata"},{"p":"com.telenav.cactus.build.metadata","l":"BuildMetadataUpdater"},{"p":"com.telenav.cactus.build.metadata","l":"BuildName"},{"p":"com.telenav.cactus.build.metadata","l":"BuildMetadata.Type"}];updateSearchResults();
