@@ -2,7 +2,7 @@
 
     !include lexakai.theme
     
-    title "cactus-build-metadata"
+    title "cactus-metadata"
     
     artifact cactus_build_metadata
     
