@@ -4,6 +4,6 @@
     
     title "cactus-metadata"
     
-    artifact cactus_build_metadata
+    artifact cactus_metadata
     
 @enduml

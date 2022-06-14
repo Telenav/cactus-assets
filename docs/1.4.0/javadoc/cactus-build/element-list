@@ -1,2 +1,2 @@
-module:cactus.build.metadata
-com.telenav.cactus.build.metadata
+module:cactus.metadata
+com.telenav.cactus.metadata

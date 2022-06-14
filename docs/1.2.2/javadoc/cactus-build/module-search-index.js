@@ -1,1 +1,1 @@
-moduleSearchIndex = [{"l":"cactus.build.metadata"}];updateSearchResults();
+moduleSearchIndex = [{"l":"cactus.metadata"}];updateSearchResults();

@@ -2,7 +2,7 @@
 
     !include lexakai.theme
     
-    title "com.telenav.cactus.build.metadata"
+    title "com.telenav.cactus.metadata"
     
     BuildMetadata --> Map : "creates"
     class BuildMetadata
@@ -36,4 +36,3 @@
     }
     
 @enduml
-
