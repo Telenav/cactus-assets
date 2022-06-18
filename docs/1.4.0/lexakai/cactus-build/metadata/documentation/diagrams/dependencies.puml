@@ -1,9 +1,0 @@
-@startuml
-
-    !include lexakai.theme
-    
-    title "cactus-metadata"
-    
-    artifact cactus_metadata
-    
-@enduml
